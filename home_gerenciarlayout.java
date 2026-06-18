@@ -1,7 +1,3 @@
-/*EDUARDO ALVES DOS SANTOS
-FERNANDO FREIRE DE OLIVEIRA
-NICOLAS YUJI HIRATANI
-VICTOR SOARES RIELO*/
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
