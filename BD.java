@@ -1,7 +1,3 @@
-/*EDUARDO ALVES DOS SANTOS
-FERNANDO FREIRE DE OLIVEIRA
-NICOLAS YUJI HIRATANI
-VICTOR SOARES RIELO*/
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
